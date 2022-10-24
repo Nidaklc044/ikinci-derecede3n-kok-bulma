@@ -1,0 +1,15 @@
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\bin\Debug\net6.0\ikidenklemkokubulma.exe
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\bin\Debug\net6.0\ikidenklemkokubulma.deps.json
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\bin\Debug\net6.0\ikidenklemkokubulma.runtimeconfig.json
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\bin\Debug\net6.0\ikidenklemkokubulma.dll
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\bin\Debug\net6.0\ikidenklemkokubulma.pdb
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.csproj.AssemblyReference.cache
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.AssemblyInfoInputs.cache
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.AssemblyInfo.cs
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.csproj.CoreCompileInputs.cache
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.dll
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\refint\ikidenklemkokubulma.dll
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.pdb
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ikidenklemkokubulma.genruntimeconfig.cache
+C:\Users\Nida\source\repos\ikidenklemkokubulma\ikidenklemkokubulma\obj\Debug\net6.0\ref\ikidenklemkokubulma.dll
